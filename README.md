@@ -17,6 +17,6 @@ Open `index.html` in a browser, or serve this folder with any static web server.
 
 ## Customize
 
-Replace `assets/bridge-placeholder.svg` with your own image and update the image references and alternative text on each page. Review all health information, external links, and fundraising language before publishing. The support link currently opens GoFundMe's campaign creation page, not an active campaign.
+Replace `assets/bridge-vector.png` with your own image and update the image references and alternative text on each page. Review all health information, external links, and fundraising language before publishing. The support link currently opens GoFundMe's campaign creation page, not an active campaign.
 
 This site is for general informational purposes only and is not a diagnosis or substitute for professional care.
