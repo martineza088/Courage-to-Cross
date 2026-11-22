@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title description">
+  <title id="title">Replaceable bridge image placeholder</title>
+  <desc id="description">A simple illustrated bridge, water, and hills with a reminder to replace this placeholder image.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e7f0eb"/>
+      <stop offset="1" stop-color="#fbf8f1"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9cc8be"/>
+      <stop offset="1" stop-color="#d3e2d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <circle cx="920" cy="210" r="95" fill="#eadfc7" opacity=".8"/>
+  <path d="M0 495 190 350l155 112 210-214 210 235 135-135 300 192v166H0Z" fill="#c7d9cc"/>
+  <path d="M0 565c180-48 322 28 498-13 238-55 439-17 702 14v334H0Z" fill="url(#water)"/>
+  <path d="M0 684c206-39 363 16 554-8 225-28 406-5 646 23" fill="none" stroke="#f6f5eb" stroke-width="8" opacity=".75"/>
+  <path d="M0 760c177-28 342 27 532 5 234-27 442-10 668 16" fill="none" stroke="#f6f5eb" stroke-width="5" opacity=".6"/>
+  <path d="M75 503c155-27 293-30 435-1 135 28 264 21 431-7 62-10 118-12 184-5" fill="none" stroke="#102c3b" stroke-width="35" stroke-linecap="round"/>
+  <path d="M106 501c120-170 220-199 340-12M589 498c110-153 224-185 369-17" fill="none" stroke="#167c79" stroke-width="20" stroke-linecap="round"/>
+  <path d="M162 490v-70m85 59v-97m84 92v-84m292 106v-89m91 81v-111m92 100v-85m92 78v-63" stroke="#102c3b" stroke-width="12" stroke-linecap="round"/>
+  <rect x="375" y="790" width="450" height="58" rx="29" fill="#fffdf8" opacity=".92"/>
+  <text x="600" y="815" fill="#167c79" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3" text-anchor="middle">IMAGE PLACEHOLDER</text>
+  <text x="600" y="836" fill="#60747a" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Replace with your own image</text>
+</svg>
